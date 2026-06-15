@@ -1,1 +1,0 @@
-# diet-app-privacy-policy
