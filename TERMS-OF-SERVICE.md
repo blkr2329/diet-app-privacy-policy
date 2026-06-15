@@ -93,7 +93,7 @@ We may also modify, suspend, or discontinue any part of the App at any time, tho
 
 ## Governing law
 
-These Terms are governed by the laws of India. Any disputes arising from your use of the App will be subject to the exclusive jurisdiction of the courts in [YOUR CITY], India.
+These Terms are governed by the laws of India. Any disputes arising from your use of the App will be subject to the exclusive jurisdiction of the courts in Hyderabad, India.
 
 ---
 
